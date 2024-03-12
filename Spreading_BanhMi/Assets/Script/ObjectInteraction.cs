@@ -12,7 +12,7 @@ public class ObjectInteraction : MonoBehaviour
         if (Input.GetMouseButtonDown(0)) // Change "0" to the appropriate button index if necessary
         {
             // Perform pick-up action
-            PickUpObject();
+            //PickUpObject();
         }
 
         // Check for key press to drop objects
